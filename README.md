@@ -10,6 +10,12 @@ Identify departments with the highest staffing concentration
 Compare employee distribution and salary expenditure
 Provide a clear operational overview of public workforce structure
 
+Tools Used
+
+Power BI
+Excel
+Git & GitHub
+
 chicago_hr/
 │
 ├── dataset
